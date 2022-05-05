@@ -1,2 +1,2 @@
 blog-app created with React and Redux 
-https://vercel.com/marugo221/blog-app/5v5B2U6ZSgTPSDtY8mwvmdsboGNF
+https://blog-app-1mfl2iwt0-marugo221.vercel.app/
